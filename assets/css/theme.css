@@ -803,4 +803,14 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
+.hero {
+	height: 450px;
+	width: 100%;
+	object-fit: cover;
+}
+.a2a_s_a2a {
+	background-color: black !important;
+}
+.a2a_default_style .a2a_svg {
+	border-radius: 0 !important;
+}

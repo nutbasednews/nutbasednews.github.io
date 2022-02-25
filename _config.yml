@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Nut Based News'
+description: 'Satire news site about veganism and animal liberation'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: ''
+disqus: 'nutbasednews'
+email: 'nutbasednews@gmail.com'
+mailchimp-list: 'https://nutbasednews.us14.list-manage.com/subscribe/post?u=30039bfac2449e3ca1444e5f5&amp;id=ae646eb9de'
 
 include: ["_pages"]
 permalink: /:title/
@@ -17,24 +17,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
-authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+authors:
+    samuel:
+      name:           Samuel
+      site:           https://nutbasednews.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Samuel, the creator of Nut Based News. I am a software engineer, but also write satirical articles related to veganism and animal rights in my spare time."
+      email:          nutbasednews@gmail.com
+      twitter:        https://twitter.com/nutbasednews
+
+socials:
+  twitter: https://twitter.com/nutbasednews
+  instagram: https://instagram.com/nutbasednews
+
 # Defaults
 defaults:
 
@@ -43,8 +39,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: samuel
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
