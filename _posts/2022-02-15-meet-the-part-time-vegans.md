@@ -3,7 +3,7 @@ layout: post
 title:  "Meet The Part Time Vegans - Oatly's New Viral Movement"
 author: nutbasednews
 categories: [ Vegans ]
-image: assets/images/posts/2022-02-15-meet-the-part-time-vegans/0.jpg
+image: assets/images/posts/2022-02-15-meet-the-part-time-vegans/0.png
 tags: [ featured ]
 ---
 

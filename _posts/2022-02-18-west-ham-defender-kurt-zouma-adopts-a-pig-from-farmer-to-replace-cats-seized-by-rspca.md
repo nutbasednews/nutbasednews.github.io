@@ -3,7 +3,7 @@ layout: post
 title:  "West Ham Defender Kurt Zouma Adopts Pig From Farmer To Replace Cats Seized By RSPCA"
 author: nutbasednews
 categories: [ Pigs, Farm Animals ]
-image: assets/images/posts/2022-02-18-west-ham-defender-kurt-zouma-adopts-pig-from-farmer-to-replace-cats-sized-by-rspca/0.png
+image: assets/images/posts/2022-02-18-west-ham-defender-kurt-zouma-adopts-pig-from-farmer-to-replace-cats-seized-by-rspca/0.png
 tags: [ featured ]
 ---
 
