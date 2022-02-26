@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: samuel
-categories: [ Jekyll, tutorial ]
+title:  "Vegan Company VFC Slaughters Meat-Eaters"
+author: nutbasednews
+categories: [ Ethical Meat ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---

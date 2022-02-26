@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Plant-based meat company THIS redefines veganism in order to boost sales"
-author: samuel
-categories: [ Plant Based, Marketing ]
+author: nutbasednews
+categories: [ Plant-based, Marketing ]
 image: assets/images/posts/2022-02-24-plant-based-company-this-redefines-veganism-in-order-to-boost-sales/0.png
 tags: [ featured ]
 ---

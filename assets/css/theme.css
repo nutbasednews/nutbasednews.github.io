@@ -207,6 +207,18 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+.navbar-logo {
+	width: 100px;
+	margin-right: 1rem;
+}
+@media (max-width:768px) {
+	.navbar-brand {
+		font-size:1.2rem;
+	}
+	.navbar-logo {
+		width: 64px;
+	}
+}
 .dropdown-item {
 	font-weight:400;
 }
@@ -804,7 +816,7 @@ div.a2a_full_footer {display:none;}
 	 }
  }
 .hero {
-	height: 450px;
+	max-height: 670px;
 	width: 100%;
 	object-fit: cover;
 }

@@ -19,11 +19,11 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    samuel:
-      name:           Samuel
+    nutbasednews:
+      name:           Nut Based News
       site:           https://nutbasednews.com
-      avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Samuel, the creator of Nut Based News. I am a software engineer, but also write satirical articles related to veganism and animal rights in my spare time."
+      avatar:         assets/images/authors/nutbasednews.png
+      bio:            "We write satirical news articles about veganism, and animal liberation. We exaggerate real events in order to highlight the cognitive dissonance many suffer from."
       email:          nutbasednews@gmail.com
       twitter:        https://twitter.com/nutbasednews
 
@@ -39,8 +39,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: samuel
-      avatar: assets/images/avatar1.jpg
+      author: nutbasednews
+      avatar: assets/images/authors/nutbasednews.png
       
   # all pages
   - scope:
