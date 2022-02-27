@@ -260,7 +260,10 @@ a.text-dark:hover {
 }
 .navbar-light .navbar-toggler {
 	color:rgba(0,0,0,0.5);
-	border-color:rgba(0,0,0,0.1);
+	border: none;
+}
+.navbar-light .navbar-toggler:focus {
+	outline: none;
 }
 .navbar-light .navbar-toggler-icon {
 	background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
@@ -675,7 +678,7 @@ article {
     line-height: 1.15;
     color: #222222;
 }
-article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
+article p,article pre,article figure,article img,article blockquote,article iframed,article embed,.page-content blockquote {
 	margin-bottom:2rem;
 }
 article .caption {
@@ -686,13 +689,13 @@ article .caption {
 	font-size: 1rem;
 	opacity: 0.75;
 }
-article blockquote {
+article blockquote, .page-content blockquote {
 	padding-left:40px;
 	margin-left:0px;
 	font-style:italic;
 	position:relative;
 }
-article blockquote:before {
+article blockquote:before, .page-content blockquote:before {
 	content:"“";
 	font-family:Georgia;
 	font-size:8rem;

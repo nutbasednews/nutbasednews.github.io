@@ -7151,6 +7151,9 @@ button.bg-lightblue:focus {
 .font-weight-normal {
   font-weight: 400 !important; }
 
+.font-weight-medium {
+  font-weight: 500 !important; }
+
 .font-weight-bold {
   font-weight: 700 !important; }
 
@@ -8460,3 +8463,12 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+.opacity-50 {
+  opacity: 0.5;
+}
+.opacity-75 {
+  opacity: 0.75;
+}
+.opacity-25 {
+  opacity: 0.25;
+}

@@ -1,6 +1,8 @@
 ---
 title: "Contact"
-permalink: "/contact.html"
+layout: about
+permalink: "/contact"
+comments: false
 ---
 
 <form action="https://formspree.io/f/xwkybezw" method="POST">    

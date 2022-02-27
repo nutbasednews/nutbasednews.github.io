@@ -1,8 +1,16 @@
 ---
 title: "About"
-layout: page-sidebar
-permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
-comments: true
+layout: about
+permalink: "/about"
+comments: false
+faq: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Samuel [@nutbasednews](https://nutbasednews.com).
+
+We write satirical news articles about veganism. We exaggerate real events in order to highlight the cognitive dissonance many suffer from.
+
+Our goal isn't to upset anyone, but to trigger something within yourself that has been burried by years of conditioning.
+
+We are vegans, as per the [definition of The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism):
+
+> Veganism is a philosophy and way of living which seeks to exclude—as far as is possible and practicable—all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose; and by extension, promotes the development and use of animal-free alternatives for the benefit of animals, humans and the environment. In dietary terms it denotes the practice of dispensing with all products derived wholly or partly from animals
+
