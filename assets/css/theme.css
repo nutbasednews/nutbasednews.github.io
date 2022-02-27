@@ -678,6 +678,14 @@ article {
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
 	margin-bottom:2rem;
 }
+article .caption {
+	display: block;
+	padding: 0 24px;
+	margin-top: -50px;
+	text-align: center;
+	font-size: 1rem;
+	opacity: 0.75;
+}
 article blockquote {
 	padding-left:40px;
 	margin-left:0px;

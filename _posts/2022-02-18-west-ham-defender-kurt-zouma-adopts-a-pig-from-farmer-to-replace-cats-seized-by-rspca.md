@@ -23,8 +23,8 @@ Many people aren't sure what to make of this situation. Lauren, a Newcastle Unit
 
 Unfortunately, we had to stop our interview with Lauren when she chocked on a piece of bacon as she was being shown undercover footage of what was done to pigs on farms, and slaughter houses.
 
-It's still unclear what the RSPCA will do about this situation.
+It remains unclear what the RSPCA will do about this situation.
 
-The Zouma family are planning to apply for the RSPCA Approved label as the pig will be kept in conditions way above the standards of the majority of farms.
+The Zouma family are planning to apply for the RSPCA Approved label, as the pig will be kept in conditions way above the standards set by the governement or the RSPCA.
 
 When asked which method the family would use to slaughter their pig, they said they would choose the most common and humane method: putting the pig into a gas chamber.

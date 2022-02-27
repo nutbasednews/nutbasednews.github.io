@@ -7,7 +7,7 @@ image: assets/images/posts/2022-02-24-plant-based-company-this-redefines-veganis
 tags: [ featured ]
 ---
 
-[THIS](https://this.co), the UK plant-based company famous for its “This isn’t chicken” has puzzled hundreds of vegans when launching their [new provocative marketing campaign](https://www.instagram.com/p/CaRxhjHq7G9/). In their video, vegans are seen agreeing to eating what they believe to be real meat.
+[THIS](https://this.co), the UK plant-based company famous for its “This isn’t chicken” has baffled hundreds of vegans when launching their [new provocative marketing campaign](https://www.instagram.com/p/CaRxhjHq7G9/). In their video, vegans are seen agreeing to eating what they believe to be real meat.
 
 After being reminded by many vegans that this is impossible, as vegans would never approve of eating meat, Lauren - _THIS_’ community manager - told their followers that the definition of the word “veganism” was open for debate and/or to be redefined.
 
