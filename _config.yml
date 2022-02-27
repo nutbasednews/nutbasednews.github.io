@@ -9,7 +9,7 @@ email: 'nutbasednews@gmail.com'
 mailchimp-list: 'https://nutbasednews.us14.list-manage.com/subscribe/post?u=30039bfac2449e3ca1444e5f5&amp;id=ae646eb9de'
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 # Plugins
 plugins: 
