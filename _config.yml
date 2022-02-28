@@ -1,6 +1,6 @@
 # Site
 name: 'Nut Based News'
-description: 'Satire news site about veganism and animal liberation'
+description: 'Satire news about veganism. We exaggerate facts and real events in order to highlight the cognitive dissonance many suffer from.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
