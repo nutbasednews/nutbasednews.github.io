@@ -23,4 +23,4 @@ But after a year of trying, Christina gained a whopping 70kg and decided to give
 
 > I had to start eating meat again, the vegan diet was so unhealthy, I don't understand what happened. People laughed at me when I said I was vegan, telling me I was only eating grass. If that's true, **grass makes you fat!**
 
-The 37 years old woman now proudly label herself as an ex-vegan, a survivor of veganism. She advocates passionately against veganism. She believes the vegan diet is a scam that makes people unhealthy, and could cause severe health risks.
+The 37 years old woman now proudly label herself as an *ex-vegan*, a survivor of veganism. She advocates passionately against veganism. She believes the vegan diet is a scam that makes people unhealthy, and could cause severe health risks.
