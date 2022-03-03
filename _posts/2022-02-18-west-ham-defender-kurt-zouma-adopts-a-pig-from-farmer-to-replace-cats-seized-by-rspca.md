@@ -21,7 +21,7 @@ Many people aren’t sure what to make of this situation. Lauren, a Newcastle Un
 
 > I love all animals and what Kurt is doing is disgusting. I am against all sorts of animal abuse and would never support such horrific acts against any animals.
 
-Unfortunately, *<acronym title="Nut Based News">NBN</acronym>* had to stop our interview. Lauren choked on a piece of bacon as our team showed her undercover footage of what was done to pigs on farms and slaughterhouses.
+Unfortunately, *<acronym title="Nut Based News">NBN</acronym>* had to stop the interview. Lauren choked on a piece of bacon as our team showed her undercover footage of what was done to pigs on farms and slaughterhouses.
 
 It remains unclear what the RSPCA will do about this situation. The Zouma family are planning to apply for the RSPCA Approved label, as the pig will be kept in conditions way above the standards set by the governement or the RSPCA.
 
