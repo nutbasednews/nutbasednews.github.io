@@ -9,7 +9,7 @@ Did one of our article made you think twice about what you were eating? Here is 
 
 - [Dominion](https://www.dominionmovement.com/)
 
-    We believe that in order to understand why considering veganism is so important, you need to first undersand what your purchase demands before it reaches your plate. The majority of us consume meat, diary and eggs without ever thinking about the origin of these products.
+    To understand why considering veganism is so important, one first needs to understand what their purchase demands before it reaches their plate. The majority of us consume meat, dairy and eggs without ever thinking about the origin of these products. This documentary will help you with that.
 
 - [Land of hope and glory](https://www.landofhopeandglory.org/)
 
@@ -17,11 +17,11 @@ Did one of our article made you think twice about what you were eating? Here is 
 
 - [Challenge22](https://challenge22.com/)
 
-    Ready to go vegan but need guidance to get started? Try this free services and challenge yourself for 22 days.
+    Ready to go vegan but need guidance to get started? Try this free service and challenge yourself for 22 days.
 
 - [The Game Changers](https://www.netflix.com/watch/81157840)
 
-    Worried about becoming protein defecient when following a plant-based diet after going vegan? Watch this documentary on Netflix, and watch athletes thriving on such diet.
+    Are you worried about becoming protein deficient when following a plant-based diet after going vegan? Watch this documentary on Netflix, and watch athletes thriving on such a diet.
 
 - Still not convinced? Watch these speeches:
 
