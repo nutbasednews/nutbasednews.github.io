@@ -6,9 +6,9 @@ comments: false
 faq: true
 ---
 
-We write satirical news articles about veganism. We exaggerate real events in order to highlight the cognitive dissonance many suffer from.
+We write satirical news articles about veganism, and animal liberation. We exaggerate real events in order to highlight the cognitive dissonance many suffer from.
 
-Our goal isn't to upset anyone, but to trigger something within yourself that has been burried by years of conditioning.
+We do not wish to upset anyone. Our goal is to trigger something within our readers that has been buried by years of conditioning.
 
 We are vegans, as per the [definition of The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism):
 

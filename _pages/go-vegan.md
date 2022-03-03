@@ -5,7 +5,7 @@ permalink: "/go-vegan"
 comments: false
 ---
 
-Did one of our article made you think twice about what you were eating? Here is a list of resources to find out more:
+Did one of our articles make you think twice about what you were eating? Here is a list of resources to find out more:
 
 - [Dominion](https://www.dominionmovement.com/)
 
