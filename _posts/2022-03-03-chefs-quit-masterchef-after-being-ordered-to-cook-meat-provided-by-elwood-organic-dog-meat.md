@@ -7,7 +7,7 @@ image: assets/images/posts/2022-03-03-chefs-quit-masterchef-after-being-ordered-
 tags: [ featured ]
 ---
 
-In the latest episode of _MasterChef_, contestants were challenged to cook a dish that must include **dog meats**.
+In the latest episode of _MasterChef_, contestants were challenged to cook a dish that must include **dog meat**.
 
 The dog meat provided by [Elwood's Organic Dog Meat](https://www.elwooddogmeat.com/) is assured to be **free-range**, **organic**, and **humanely slaughtered**.
 
