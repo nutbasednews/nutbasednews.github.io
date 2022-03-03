@@ -17,6 +17,6 @@ The ethical meat arguments did not persuade the chefs. They were seen leaving th
 
 The TV network received millions of complaints from animal lovers from around the globe. Their spokesperson told **Nut Based News**:
 
-> MasterChef wanted to spice things up a bit. We knew none of the contestants had ever cooked dog meat before. We want to reassure our audience there is nothing to be worried about. The dogs were not raised as pets and lived happy lives before Elwood's Organic Dog Meat Farm sent them to a slaughterhouse, where the dogs were slaughtered humanely.
+> MasterChef wanted to spice things up a bit. We knew none of the contestants had ever cooked dog meat before. We want to reassure our viewers there is nothing to be worried about. The dogs were not raised as pets and lived happy lives before Elwood's Organic Dog Meat Farm sent them to a slaughterhouse, where the dogs were slaughtered humanely.
 
 The majority of people told vegans to shut up when they took the opportunity to highlight that there is no moral difference between cooking dog meat or pig meat.
