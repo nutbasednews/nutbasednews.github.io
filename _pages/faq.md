@@ -13,7 +13,7 @@ comments: false
             Are you related to <a href="https://plantbasednews.org">Plant Based News</a>?
           </h6>
           <span class="d-block text-muted">
-            Nope! But our name was definitely inspired by theirs.
+            Nope! But our name was inspired by theirs.
           </span>
       </span>
     </li>
@@ -28,10 +28,10 @@ comments: false
             <br>
             <div>1. We aren't writers</div>
             <div>2. We are doing this in our spare time</div>
-            <div>3. We are a tiny team of only 2 people</div>
-            <div>4. One of us is French 🇫🇷. Salut les vegans!</div>
+            <div>3. We are a tiny team of one 🤫</div>
+            <div>4. I am French 🇫🇷. Salut les vegans!</div>
             <br>
-            If NBN becomes something a bit more serious, we will invest into avoiding these from happening.
+            If NBN becomes a bit more serious, I will invest in this project to avoid these mistakes.
           </span>
       </span>
     </li>
@@ -41,8 +41,8 @@ comments: false
             Is the content of your articles genuine?
           </h6>
           <span class="d-block text-muted">
-            We often get inspired by facts and real events, so part of what we write is true, then we get creative and add a layer of fiction.
-            <br><br>Take whatever we write with a pinch of salt. Also the underlying message remain the same: what we do to animals is absolutely ridiculous, and the cognitive dissonance is laughable (except from what it leads to).
+            We often get inspired by facts and actual events, so part of what we write is genuine, then we get creative and add a layer of fiction. 
+            <br><br>Take whatever we write with a pinch of salt. The underlying message remains the same, though. What we do to animals is ridiculous, and the cognitive dissonance is laughable (except what it leads to).
           </span>
       </span>
     </li>
@@ -62,7 +62,7 @@ comments: false
             I am offended, how can I report one of your article?
           </h6>
           <span class="d-block text-muted">
-            Alright snowflake, calm down. If you are truely offended by some words put together but aren't offended by what we do to animals,
+            Calm down. If you are genuinely offended by some words put together but aren't offended by what we do to animals,
             <a href="/contact">Contact us</a>! You can also message us on <a href="https://instagram.com/nutbasednews">instagram</a> or <a href="https://twitter.com/nutbasednews">twitter</a>
           </span>
       </span>
