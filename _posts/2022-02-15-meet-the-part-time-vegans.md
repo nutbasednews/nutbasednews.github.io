@@ -9,7 +9,7 @@ tags: [ featured ]
 
 We know what you are thinking. "Part-time vegan", what on earth does that mean?! Don't worry, it's straightforward. [Oatly](https://www.oatly.com), the plant-based drink company has developed a brilliant new concept.
 
-We all eat animal products, but we are often found not munching on a piece of meat, egg or dairy. Right? That is the definition of a part-time vegan who takes breaks from being a full-time carnivore.
+We all eat animal products, but we are often found not munching on a piece of meat, egg, or dairy. Right? That is the definition of a part-time: A vegan who takes breaks from being a full-time carnivore.
 
 We have met with a few part-time vegans to share their stories.
 
