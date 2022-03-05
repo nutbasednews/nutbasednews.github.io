@@ -26,8 +26,9 @@ layout: default
                         {% endif %}
 						<small class="ml-3">
 							{{ author.name }}
-							{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>{% endif %}
-							{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
+							{% if author.instagram %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fab fa-instagram"></i></a></span>{% endif %}
+							{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fab fa-twitter"></i></a></span>{% endif %}
+							{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fas fa-coffee"></i></a></span>{% endif %}
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
@@ -95,8 +96,10 @@ layout: default
 													Written by
 												</h5>
 												<span class="font-weight-medium">{{ author.name }}</span>
-													{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>{% endif %}
-													{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
+												{% if author.instagram %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fab fa-instagram"></i></a></span>{% endif %}
+												{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fab fa-twitter"></i></a></span>{% endif %}
+												{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round ml-1"><i class="fas fa-coffee"></i></a></span>{% endif %}
+																			<span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 												</h5>
 						<p class="mt-4">
 							{{ author.bio }}
