@@ -26,8 +26,8 @@ layout: default
                         {% endif %}
 						<small class="ml-3">
 							{{ author.name }}
-							{% if author.instagram %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>{% endif %}
-							{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
+							{% if author.instagram %}<span><a onclick="window.fathom.trackGoal('EXFJB5QZ', 0)" target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>{% endif %}
+							{% if author.buymeacoffee %}<span><a onclick="window.fathom.trackGoal('7QLJSO2U', 0)" target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
@@ -86,12 +86,12 @@ layout: default
 				{% if page.previous %}
 				<div class="col-md-6">
 					<div class="card border-0 mb-4 box-shadow">   
-					<a href="{{site.baseurl}}{{page.previous.url}}">
+					<a onclick="window.fathom.trackGoal('WIJCMQRU', 0)" href="{{site.baseurl}}{{page.previous.url}}">
 					<div class="topfirstimage" style="background-image: url({% if page.previous.image contains "://" %}{{ page.previous.image }}{% else %} {{site.baseurl}}/{{ page.previous.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
 					</a>
 					<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold">
-					<a class="text-dark" href="{{site.baseurl}}{{page.previous.url}}">{{ page.previous.title }}</a>
+					<a onclick="window.fathom.trackGoal('WIJCMQRU', 0)" class="text-dark" href="{{site.baseurl}}{{page.previous.url}}">{{ page.previous.title }}</a>
 					</h2>
 					<p class="excerpt">
 							{{ page.previous.excerpt | strip_html | strip_newlines | truncate: 136 }}
@@ -115,12 +115,12 @@ layout: default
 				{% if page.next %}
 				<div class="col-md-6">
 					<div class="card border-0 mb-4 box-shadow">   
-					<a href="{{site.baseurl}}{{page.next.url}}">
+					<a onclick="window.fathom.trackGoal('PVI9UYQJ', 0)"  href="{{site.baseurl}}{{page.next.url}}">
 					<div class="topfirstimage" style="background-image: url({% if page.next.image contains "://" %}{{ page.next.image }}{% else %} {{site.baseurl}}/{{ page.next.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
 					</a>
 					<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold">
-					<a class="text-dark" href="{{site.baseurl}}{{page.next.url}}">{{ page.next.title }}</a>
+					<a onclick="window.fathom.trackGoal('PVI9UYQJ', 0)" class="text-dark" href="{{site.baseurl}}{{page.next.url}}">{{ page.next.title }}</a>
 					</h2>
 					<p class="excerpt">
 							{{ page.next.excerpt | strip_html | strip_newlines | truncate: 136 }}
@@ -154,9 +154,9 @@ layout: default
 					</div>
 					<div class="col-9 col-md-8">		
 												<h6 class="mt-3">{{ author.name }}</h6>
-												{% if author.instagram %}<span><a target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round"><i class="fab fa-instagram"></i></a></span>{% endif %}
-													{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round"><i class="fab fa-twitter"></i></a></span>{% endif %}
-													{% if author.buymeacoffee %}<span><a target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
+												{% if author.instagram %}<span><a onclick="window.fathom.trackGoal('KCLEQUO4', 0)" target="_blank" href="{{ author.instagram }}" class="btn btn-outline-success btn-sm btn-round"><i class="fab fa-instagram"></i></a></span>{% endif %}
+													{% if author.twitter %}<span><a onclick="window.fathom.trackGoal('EPQVFHID', 0)" target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round"><i class="fab fa-twitter"></i></a></span>{% endif %}
+													{% if author.buymeacoffee %}<span><a onclick="window.fathom.trackGoal('7QLJSO2U', 0)" target="_blank" href="{{ author.buymeacoffee }}" class="btn btn-outline-success btn-sm btn-round"><i class="fas fa-coffee"></i></a></span>{% endif %}
 												</h5>
 						<p class="mt-4">
 							{{ author.bio }}
