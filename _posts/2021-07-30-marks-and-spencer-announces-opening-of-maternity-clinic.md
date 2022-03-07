@@ -4,7 +4,7 @@ title:  "Marks And Spencer Announces Opening Of Maternity Clinic"
 author: nutbasednews
 categories: [ Ethical Farming ]
 image: assets/images/posts/2021-07-30-marks-and-spencer-announces-opening-of-maternity-clinic/0.png
-tags: [ featured ]
+tags: []
 ---
 
 [Marks & Spencer](https://www.marksandspencer.com) has announced it is establishing a healthcare department. The British retailer will open its first maternity clinic on the outskirt of London this September.
