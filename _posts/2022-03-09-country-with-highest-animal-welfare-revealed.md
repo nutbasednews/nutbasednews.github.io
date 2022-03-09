@@ -24,9 +24,7 @@ One example of <span class="country">your country</span>'s animal welfare standa
 
 Other examples of welfare standards can be found in the report, confirming that <span class="country country-emphasise">your country</span> is a global leader in animal welfare.
 
-The findings aren't that surprising, as farmers of <span class="country country-emphasise">your country</span> has always been praised for their high level of care toward their animals. If other countries had to follow the example of one country when it comes to animal welfare, <span class="country country-emphasise">your country</span> would be that country.
-
-The findings aren't that suprising, as <span class="country country-emphasise">Your country</span> has always been praised for the high level of care its farmers provide to their animals. **If other countries had to follow the example of one country when it comes to animal welfare, <span class="country country-emphasise">your country</span> would be that country.**
+The findings aren't surprising. Farmers of <span class="country country-emphasise">your country</span> have always been praised for their high level of care toward their animals. **If other countries had to follow the example of one country when it comes to animal welfare, <span class="country country-emphasise">your country</span> would be that country.**
 
 <div class="modal-container hidden">
    <div class="modal-backdrop absolute z-0 top-0 bottom-0 left-0 right-0"></div>
