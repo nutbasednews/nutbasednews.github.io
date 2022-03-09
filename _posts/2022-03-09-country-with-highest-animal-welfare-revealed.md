@@ -102,6 +102,8 @@ The findings aren't that suprising, as <span class="country country-emphasise">Y
    initCountryModal();
 
    let setMainCountry = (country, with_exception) => {
+      if (!country) return;
+
       document.querySelectorAll(`.country${with_exception ? ':not(.no-change)' : ''}`).forEach((el) => {
          let name = country.short || country.name;
          let emphasise = country.emphasise && el.classList.contains('country-emphasise');
@@ -127,10 +129,10 @@ The findings aren't that suprising, as <span class="country country-emphasise">Y
 
       let selectedCountry = countries[index]
 
-      return selectedCountry.iso2 !== current.iso2 ? selectedCountry : getRandomCountry(current);
+      return (!current || selectedCountry.iso2 !== current.iso2) ? selectedCountry : getRandomCountry(current);
    };
 
-   let glitch = (currentCountry, originalCountry, iterations) => {
+   let glitch = (currentCountry, iterations) => {
       if (iterations === 5) {
          let toast = document.querySelector('.toast');
          toast.classList.add('flex');
@@ -147,12 +149,12 @@ The findings aren't that suprising, as <span class="country country-emphasise">Y
             el.style.transform = `rotate(${randomBetween(-6, 6)}deg) translate3d(${randomBetween(-6, 6)}px,${randomBetween(-6, 6)}px,0)`;
          });
          setTimeout(() => {
-            setMainCountry(originalCountry);
+            setMainCountry(currentCountry);
             document.querySelectorAll('.country:not(.no-change)').forEach((el) => {
                el.classList.remove('wrong-country');
                el.style.transform = `rotate(${randomBetween(-6, 6)}deg) translate3d(${randomBetween(-6, 6)}px,${randomBetween(-6, 6)}px,0)`;
             });
-            glitch(newCurrentCountry, originalCountry, iterations + 1);
+            glitch(currentCountry, iterations + 1);
          }, randomBetween(50, 1000))
       }, randomBetween(250, 4000))
    }
@@ -161,9 +163,11 @@ The findings aren't that suprising, as <span class="country country-emphasise">Y
       let countryCode = iso2.toUpperCase();
       let country = countries.find((country) => country.iso2 === countryCode.toUpperCase());
 
-      setMainCountry(country);
+      if (!country) {
+         setMainCountry(country);
+      }
       setRandomCountries(country);
-      glitch(country, country, 0);
+      glitch(country, 0);
    }
 
    document.querySelector('.country-guess-btn').addEventListener('click', (e) => {
