@@ -181,6 +181,7 @@ The findings aren't that suprising, as <span class="country country-emphasise">Y
             window.location = `${window.location.origin}${window.location.pathname}?country=${iso2}`;
          } else {
             closeModal();
+            initCountry('unknown');
          }
       }
    });
