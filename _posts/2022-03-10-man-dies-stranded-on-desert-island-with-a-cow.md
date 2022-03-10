@@ -13,6 +13,6 @@ Investigators assume that the man was starving and desperate for food. Luckily f
 
 Men are well known to be **apex predators** and sit at the **top of the food chain**, unmatched by other animals. Unfortunately for the unidentified man, the lack of tools meant that he only had his bare hands and teeth to rely on.
 
-The starved man must have tried to claw the cow to death and use his canines to bite through her skin. Unfortunately, the cow was not pregnant, nor had she recently given birth, and therefore was unable to produce milk.
+The starved man must have tried to claw the cow to death and use his canines to bite through her skin. Unfortunately, **the cow was not pregnant, nor had she recently given birth, and therefore was unable to produce milk.**
 
 This story is a good reminder that a man without his tool isn't that apex after all.
