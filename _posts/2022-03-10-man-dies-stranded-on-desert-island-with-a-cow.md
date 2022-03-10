@@ -15,4 +15,4 @@ Men are well known to be **apex predators** and sit at the **top of the food cha
 
 The starved man must have tried to claw the cow to death and use his canines to bite through her skin. Unfortunately, **the cow was not pregnant, nor had she recently given birth, and therefore was unable to produce milk.**
 
-This story is a good reminder that a man without his tool isn't that apex after all.
+This story is a good reminder that a man without his tools isn’t that much of a predator after all.
