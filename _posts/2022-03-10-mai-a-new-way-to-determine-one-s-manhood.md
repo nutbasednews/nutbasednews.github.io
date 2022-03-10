@@ -2,7 +2,7 @@
 layout: post
 title:  "M.A.I: A new way to determine one's manhood"
 author: nutbasednews
-categories: [ Health ]
+categories: [ Fitness, Men ]
 image: assets/images/posts/2022-03-10-mai-a-new-way-to-determine-one-s-manhood/0.png
 tags: []
 ---
