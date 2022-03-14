@@ -684,7 +684,7 @@ article p,article pre,article figure,article img,article blockquote,article ifra
 article .caption {
 	display: block;
 	padding: 0 24px;
-	margin-top: -50px;
+	margin-top: -25px;
 	text-align: center;
 	font-size: 1rem;
 	opacity: 0.75;
