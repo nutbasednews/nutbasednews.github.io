@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cosmic Bliss is sustainably increasing land use and methane emissions"
+title:  "Cosmic Bliss is sustainably expending land use and increasing methane emissions"
 author: nutbasednews
 categories: [ Plant-based, Grass-fed, Dairy ]
 image: assets/images/posts/2022-03-15-cosmic-bliss-is-sustainably-increasing-land-use-and-methane-emissions/0.png
@@ -11,7 +11,7 @@ A new product range from Cosmic Bliss (formally known as the plant-based brand C
 
 There has been a misunderstanding about what the brand means by "sustainable". This word is often used to describe a positive activity that we can maintain at a certain rate or level. But sustainability can also apply to harmful actions.
 
-The former plant-based ice-cream brand has two goals: sustainably increase methane emissions and expand land use by animal agriculture.
+The former plant-based ice-cream brand has two goals: sustainably increase methane emissions and expand land used by animal agriculture.
 
 ![Cosmic Bliss sustainably expending land use]({{ site.base_url }}/assets/images/posts/2022-03-15-cosmic-bliss-is-sustainably-increasing-land-use-and-methane-emissions/1.png)
 
