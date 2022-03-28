@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The God-Complex Society declares slaughetering species en mass a need for their survival"
+title:  "The God-Complex Society declares the slaughter of species en mass a necessity for their survival"
 author: nutbasednews
 categories: [ Species survival ]
 image: assets/images/posts/2022-03-27-the-god-complex-society-declares-slaughtering-species-en-mass-a-need-for-their-survival/0.png
