@@ -17,6 +17,6 @@ Four years ago, in an interview about veganism, vegan activist Joey Carbstrong p
 
 This statement was aimed to clarify if Piers was a calf after claiming he liked drinking milk produced from a cow, a naturally secreted liquid to help young calves grow.
 
-Piers Morgan finally came out of the closet and admitted not being able to survive without dairy. When taking one of these online DNA test services, the British celebrity discovered that dairy was necessary for his survival. Not human milk, not goat milk. Only cow milk. That would put M. Morgan in the same category as calves, sharing similar DNA traits.
+Piers Morgan finally came out of the closet and admitted not being able to survive without dairy. The celebrity made this discovery when taking a DNA test from an online service. The grown up adult discovered that dairy was necessary for his survival. Not human milk, not goat milk. Only cow milk. That would put M. Morgan in the same category as calves, sharing similar DNA traits.
 
-This genetic anomaly has yet to be understood. Scientists worldwide are trying to figure out when this genetic mutation occurred in M. Morgan's ancestry.
+This genetic anomaly has yet to be understood. Scientists worldwide are trying to figure out when this genetic mutation occurred.
