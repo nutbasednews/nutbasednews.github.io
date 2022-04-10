@@ -4,7 +4,7 @@ title:  "The Day-to-Day Killer commits to kill-free Mondays"
 author: nutbasednews
 categories: [ Ethics ]
 image: assets/images/posts/2022-04-05-the-day-to-day-killer-commits-to-kill-free-mondays/0.png
-tags: []
+tags: [ featured ]
 ---
 
 The New York serial killer known as the **Day-to-Day Killer** has committed to *kill-free Mondays*. The perpetrator has been killing at least one person every day. He has anonymously reported he would no longer murder on Mondays after the killer allegedly felt guilty when he saw a victim's relative in tears on television.

@@ -4,7 +4,7 @@ title:  "Meet The Part-Time Vegans - Oatly's New Viral Movement"
 author: nutbasednews
 categories: [ Vegans ]
 image: assets/images/posts/2022-02-15-meet-the-part-time-vegans/0.png
-tags: [ featured ]
+tags: [ ]
 ---
 
 We know what you are thinking. "Part-time vegan", what on earth does that mean?! Don't worry, it's straightforward. [Oatly](https://www.oatly.com), the plant-based drink company has developed a brilliant new concept.

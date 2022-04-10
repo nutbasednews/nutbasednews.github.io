@@ -4,7 +4,7 @@ title:  "Customer finds piece of broccoli in his broccoli soup"
 author: nutbasednews
 categories: [ Breaking News ]
 image: assets/images/posts/2022-03-05-customer-finds-piece-of-broccoli-in-his-broccoli-soup/0.png
-tags: []
+tags: [ featured ]
 ---
 
 We have all heard of meat-eaters finding [chicken body parts in buckets of chicken body parts](https://plantbasednews.org/lifestyle/food/kfc-customer-fried-chicken-head/), or [pigs body parts in slices of pig body parts](https://www.peta.org/blog/mcdonalds-sandwich-pig-nipple-goes-vegan/).

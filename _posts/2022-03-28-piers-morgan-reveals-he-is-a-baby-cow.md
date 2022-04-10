@@ -4,7 +4,7 @@ title:  "Piers Morgan reveals he is a baby cow"
 author: nutbasednews
 categories: [ Dairy ]
 image: assets/images/posts/2022-03-28-piers-morgan-reveals-he-is-a-baby-cow/0.png
-tags: [ featured ]
+tags: [ ]
 ---
 
 The British celebrity has admitted he cannot live without cow milk. Dairy milk, the substance produced by cows for their young, is mainly known to be fed to humans.

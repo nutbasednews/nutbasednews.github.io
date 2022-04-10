@@ -4,7 +4,7 @@ title:  "Plant-based meat company THIS redefines veganism in a desperate attempt
 author: nutbasednews
 categories: [ Plant-based, Marketing ]
 image: assets/images/posts/2022-02-24-plant-based-company-this-redefines-veganism-in-order-to-boost-sales/0.png
-tags: [ featured ]
+tags: [ ]
 ---
 
 [THIS](https://this.co), the UK plant-based company famous for its “This isn’t chicken” has baffled hundreds of vegans when launching their [new provocative marketing campaign](https://www.instagram.com/p/CaRxhjHq7G9/). In their video, vegans are seen agreeing to eating what they believe to be real meat.

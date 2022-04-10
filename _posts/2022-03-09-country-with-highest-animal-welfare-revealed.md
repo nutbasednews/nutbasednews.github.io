@@ -4,7 +4,7 @@ title:  "Country with highest animal welfare standards revealed"
 author: nutbasednews
 categories: [ Ethical meat, Local farms ]
 image: assets/images/posts/2022-03-09-country-with-highest-animal-welfare-revealed/0.png
-tags: [ featured ]
+tags: [ ]
 ---
 
 Ask anyone which country has the highest animal welfare standards in the world, and their answer will likely be, *"My country has the highest animal welfare standards! I only buy my meat from where I live"*.
