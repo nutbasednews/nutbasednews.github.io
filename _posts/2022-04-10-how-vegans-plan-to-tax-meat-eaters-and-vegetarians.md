@@ -7,13 +7,15 @@ image: assets/images/posts/2022-04-10-how-vegans-plan-to-tax-meat-eaters-and-veg
 tags: [ featured ]
 ---
 
-In a poll recently shared by [Plant Based News](https://plantbasednews.org) on [Twitter](https://twitter.com/PlantBasedNews/status/1512046304876285962), the vegan news company asked: *"Should meat-eaters pay more tax?"*. A whopping **72% of participants answered *"yes"***. This question made some people angry:
+In a poll recently shared by [Plant Based News](https://plantbasednews.org) on [Twitter](https://twitter.com/PlantBasedNews/status/1512046304876285962), the vegan news company asked: *"Should meat-eaters pay more tax?"*. A whopping **72% of participants answered *"yes"***.
 
 <p>
    <center>
       <div class="twitter-tweet"><p lang="en" dir="ltr">Should meat-eaters pay more tax? 🥩💰</p>&mdash; Plant Based News (@PlantBasedNews) <a href="https://twitter.com/PlantBasedNews/status/1512046304876285962?ref_src=twsrc%5Etfw">April 7, 2022</a></div> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </center>
 </p>
+
+This question made some people angry:
 
 > You are indicating that your position on food is morally superior and should award you advantages over who you see as your opposition. This is a fascist mindset and one I cannot engage with.
 
