@@ -2,7 +2,7 @@
 layout: post
 title:  "Customers to be exposed to the harsh reality of animal agriculture"
 author: nutbasednews
-categories: [ Regulations ]
+categories: [ Laws &amp; regulations ]
 image: assets/images/posts/2022-04-11-customers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/0.png
 tags: [ featured ]
 ---
