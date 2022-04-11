@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Customers to be exposed to the harsh reality of animal agriculture"
+title:  "Consumers to be exposed to the harsh reality of animal agriculture"
 author: nutbasednews
 categories: [ Laws &amp; regulations ]
-image: assets/images/posts/2022-04-11-customers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/0.png
+image: assets/images/posts/2022-04-11-consumers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/0.png
 tags: [ featured ]
 ---
 
@@ -15,11 +15,11 @@ The government is betting on people's innate compassion toward animals and hopes
 
 Money has been allocated to convert animal farms to **more sustainable agriculture** and educate the future generation on nutrition to learn how to **thrive on a balanced plant-based diet**.
 
-![Grocery items packaging containing animal product]({{ site.base_url }}/assets/images/posts/2022-04-11-customers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/1.png)
+![Grocery items packaging containing animal product]({{ site.base_url }}/assets/images/posts/2022-04-11-consumers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/1.png)
 
 Grocery items containing animal products will have to comply with the new law and show images of slaughter or living conditions on farms. A policy heavily inspired to encourage people not to smoke by having graphic pictures of cancer symptoms printed on cigarette packages.
 
-![McDonald's must display footage of how animals are treated of farms and slaughterhouses]({{ site.base_url }}/assets/images/posts/2022-04-11-customers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/2.png)
+![McDonald's must display footage of how animals are treated of farms and slaughterhouses]({{ site.base_url }}/assets/images/posts/2022-04-11-consumers-to-be-exposed-to-the-harsh-reality-of-animal-agriculture/2.png)
 
 Meat, dairy and egg aisles will need screen panels showing footage of how animals are treated on farms and slaughterhouses. These requirements will also apply to other businesses selling animal products, such as restaurants and butchers.
 
