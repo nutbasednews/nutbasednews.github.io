@@ -4,7 +4,7 @@ title:  "The magic of buying local: animal welfare by proximity"
 author: nutbasednews
 categories: [ Local farms ]
 image: assets/images/posts/2022-03-06-the-magic-of-buying-local/0.png
-tags: [ featured ]
+tags: [ ]
 ---
 
 Everybody is claiming to do it. One way to make someone say it is to tell them “eating animals is bad”. Their reply will likely be, “this does not apply to me; I only buy my meat from local farms”.
